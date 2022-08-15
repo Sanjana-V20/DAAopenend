@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class TagSort
+public class TagSort
 {
 	public void tagsort(int[] collection, int[] tag, int size)
 	{
